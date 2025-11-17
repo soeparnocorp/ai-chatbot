@@ -9,7 +9,7 @@
 
 ![Astro](https://astro.build/assets/press/astro-icon-light-gradient.svg)
 
-[![Available at](https://img.shields.io/badge/Available%20at-Astro%20Themes-purple?style=for-the-badge&link=https://astro.build/themes/)](#) 
+[![Available at](https://img.shields.io/badge/Available%20at-Astro%20Themes-purple?style=for-the-badge&link=https://astro.build/themes/)](https://portal.astro.build/themes/ai-chat-bot/) 
 
 [![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)](https://astro.build) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com) [![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sdk.vercel.ai) [![Prompt Kit](https://img.shields.io/badge/Prompt%20Kit-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI0ZGNjI2QiIvPgo8cGF0aCBkPSJNMTIgN2w0IDQgNCA0djEwYzAtNC40LTMuNi0zLjYtMy42LTMuNnoiIGZpbGw9IiMwMDAwMDAiLz4KPHBhdGggZD0iTTEyIDE3bC00LTRsNC00djhoIiBmaWxsPSIjMDAwMDAwIi8+Cjwvc3ZnPgo=)](https://prompt-kit.dev)
 

@@ -168,7 +168,7 @@ function createId() {
 const messageTemplates: MessageTemplate[] = [
   {
     role: "assistant",
-    name: "Nova",
+    name: "Anna Laura AI",
     avatarFallback: "NO",
     content:
       "Hey there! I'm Nova, a prompt-kit powered assistant. Ask me anything about your product ideas, technical questions, or research tasks and I'll sketch out a plan you can wire up to your favourite model.",
@@ -181,7 +181,7 @@ const messageTemplates: MessageTemplate[] = [
   },
   {
     role: "assistant",
-    name: "Nova",
+    name: "Anna Laura AI",
     avatarFallback: "NO",
     markdown: true,
     content: [
@@ -230,7 +230,7 @@ function createPlaceholderConversation(title: string, preview: string): Conversa
     {
       id: createId(),
       role: "assistant",
-      name: "Nova",
+      name: "Anna Laura AI",
       avatarFallback: "NO",
       markdown: true,
       reaction: null,

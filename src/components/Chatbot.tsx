@@ -171,7 +171,7 @@ const messageTemplates: MessageTemplate[] = [
     name: "Anna Laura AI",
     avatarFallback: "NO",
     content:
-      "Hey there! I'm Nova, a prompt-kit powered assistant. Ask me anything about your product ideas, technical questions, or research tasks and I'll sketch out a plan you can wire up to your favourite model.",
+      "Hey there! I'm Anna Laura AI, a prompt-kit powered assistant. Ask me anything about your product ideas, technical questions, or research tasks and I'll sketch out a plan you can wire up to your favourite model.",
   },
   {
     role: "user",
@@ -544,7 +544,7 @@ function Chatbot() {
         {
           id: conversationId,
           title: conversationTitle,
-          preview: "Say hello to Nova to get started.",
+          preview: "Say hello to Anna Laura AI to get started.",
           timestamp: "Just now",
         },
         ...next[0].conversations,

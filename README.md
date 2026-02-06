@@ -1,4 +1,4 @@
-# 🚀 [Astro AI Chatbot Template - Vercel SDK Edition](https://template-astro-vercel-sdk-ai-chatbo.vercel.app/)
+# 🚀 [Anna Laura AI - SDK](https://anna-laura.pages.dev/)
 
 <div align="center">
 

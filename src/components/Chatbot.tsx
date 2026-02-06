@@ -694,7 +694,7 @@ function Chatbot() {
             </div>
             <div className="min-w-0">
               <p className="text-xs font-semibold uppercase tracking-[0.3em] text-muted-foreground">
-                Nova
+                Anna Laura AI
               </p>
               <h1 className="truncate text-lg font-semibold text-foreground sm:text-xl">
                 {activeConversationTitle}

@@ -485,7 +485,7 @@ function Chatbot() {
     const assistantMessage: ConversationMessage = {
       id: createId(),
       role: "assistant",
-      name: "Nova",
+      name: "Anna Laura AI",
       avatarFallback: "NO",
       markdown: true,
       reaction: null,
